@@ -1,4 +1,4 @@
-# 🛒 Lista de Compras Inteligente
+# Lista de Compras Inteligente
 
 ## 🚀 Objetivo
 
