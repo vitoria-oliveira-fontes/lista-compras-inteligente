@@ -6,8 +6,6 @@ Um site onde as pessoas podem **criar**, **organizar** e **compartilhar** listas
 
 ## 📑 Funcionalidades
 
-## 📑 Funcionalidades
-
 - **Criação de listas de compras**: Os usuários podem criar listas personalizadas.
 - **Sugestões de itens**: Sugestões automáticas baseadas em compras anteriores.
 - **Categorização de produtos**: Produtos organizados por tipo para facilitar a visualização.
